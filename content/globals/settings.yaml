@@ -1,0 +1,16 @@
+title: Settings
+data:
+  site_name: 'Matthew Turland'
+  social:
+    -
+      name: Twitter
+      url: 'https://twitter.com/elazar'
+      icon: site/social-icons/twitter.svg
+    -
+      name: Github
+      url: 'https://github.com/elazar'
+      icon: site/social-icons/github.svg
+    -
+      name: Email
+      url: 'mailto:me@matthewturland.com'
+      icon: site/social-icons/email.svg
