@@ -11,11 +11,11 @@ h1 {
 
 .content {
     > h2 {
-        @apply text-xl font-bold leading-none mt-6 py-6;
+        @apply text-xl font-bold leading-none mt-2 py-2;
     }
 
     > h3 {
-        @apply text-lg font-semibold leading-none py-6;
+        @apply text-lg font-semibold leading-none py-4;
     }
 
     > h4 {
@@ -104,7 +104,7 @@ h1 {
 
     .content {
         > h2 {
-            @apply text-3xl mt-16 py-6;
+            @apply text-3xl mt-2 py-2;
         }
     }
 }
