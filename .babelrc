@@ -1,0 +1,22 @@
+{
+  "plugins": [
+    ["prismjs", {
+      "languages": [
+        "bash",
+        "css",
+        "ini",
+        "javascript",
+        "json",
+        "makefile",
+        "markup",
+        "php",
+        "ruby",
+        "sql",
+        "yaml"
+      ],
+      "plugins": [],
+      "theme": "okaidia",
+      "css": true
+    }]
+  ]
+}
