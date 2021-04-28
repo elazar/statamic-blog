@@ -1,6 +1,7 @@
 /node_modules
 /public/css/tailwind.css
 /public/hot
+/public/js/site.js
 /public/storage
 /public/vendor/statamic
 /storage/*
