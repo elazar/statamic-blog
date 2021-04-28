@@ -46,7 +46,7 @@ h1 {
     }
 
     ul:not(.list-none) {
-        @apply pl-0 list-disc ml-10 mb-6 text-lg;
+        @apply pl-0 list-disc ml-10 text-lg;
         li {
             @apply mb-1;
         }
