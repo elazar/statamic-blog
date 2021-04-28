@@ -22,7 +22,7 @@ h1 {
         @apply font-bold uppercase tracking-widest leading-none py-6;
     }
 
-    > p {
+    > p, > blockquote > p {
         @apply mb-6 text-lg;
     }
 
@@ -42,7 +42,7 @@ h1 {
     }
 
     ul:not(.list-none) {
-        @apply pl-0 list-disc ml-10 text-lg;
+        @apply pl-0 list-disc ml-10 mb-6 text-lg;
         li {
             @apply mb-1;
         }
