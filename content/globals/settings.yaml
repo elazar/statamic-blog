@@ -3,6 +3,10 @@ data:
   site_name: 'Matthew Turland'
   social:
     -
+      name: Patreon
+      url: 'https://www.patreon.com/matthewturland'
+      icon: site/social-icons/patreon.svg
+    -
       name: Twitter
       url: 'https://twitter.com/elazar'
       icon: site/social-icons/twitter.svg
