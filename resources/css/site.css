@@ -99,7 +99,7 @@ h1 {
 /* Responsive Wangjangling */
 @screen lg {
     h1 {
-        @apply text-6xl;
+        @apply text-4xl;
     }
 
     .content {
