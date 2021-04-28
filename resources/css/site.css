@@ -26,10 +26,6 @@ h1 {
         @apply mb-6 text-lg;
     }
 
-    > p:first-of-type {
-        @apply text-2xl;
-    }
-
     > blockquote {
         @apply text-center font-black italic px-4 mb-12 pt-6 text-3xl leading-tight;
     }
