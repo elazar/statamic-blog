@@ -169,7 +169,7 @@ module.exports = {
         boxShadow: ['responsive', 'hover', 'focus'],
         cursor: ['responsive'],
         display: ['responsive'],
-        fill: ['responsive'],
+        fill: ['responsive', 'hover'],
         flex: ['responsive'],
         flexDirection: ['responsive'],
         flexGrow: ['responsive'],
