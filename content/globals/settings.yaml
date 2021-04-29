@@ -7,13 +7,13 @@ data:
       url: 'https://www.patreon.com/matthewturland'
       icon: site/social-icons/patreon.svg
     -
-      name: Twitter
-      url: 'https://twitter.com/elazar'
-      icon: site/social-icons/twitter.svg
-    -
       name: Github
       url: 'https://github.com/elazar'
       icon: site/social-icons/github.svg
+    -
+      name: Twitter
+      url: 'https://twitter.com/elazar'
+      icon: site/social-icons/twitter.svg
     -
       name: Email
       url: 'mailto:me@matthewturland.com'
