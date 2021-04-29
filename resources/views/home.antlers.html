@@ -3,13 +3,6 @@
         <div class="col-span-2 border bg-gray-200 p-4">
         </div>
         <div class="container">
-            <div class="flex justify-center mb-6 border bg-gray-200 p-4">
-                {{ settings:social }}
-                <a href="{{ url }}" class="mr-4" aria-label="{{ name }}" rel="noopener">
-                    {{ svg :src="icon" class="h-6 w-8 hover:text-teal" }}
-                </a>
-                {{ /settings:social }}
-            </div>
             {{ collection:articles limit="5" as="articles" }}
             <div class="border bg-gray-200 p-4">
                 <h2 class="text-2xl font-bold mb-4">Recent Posts</h2>
