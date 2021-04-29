@@ -1,9 +1,9 @@
 ---
-title: Presentations
-updated_by: 58305525-d036-4657-bce6-1b7091fe031d
-updated_at: 1612755037
 id: cfbd25f4-b47d-4467-bc99-32e39ad07c20
 blueprint: page
+title: Presentations
+updated_by: 58305525-d036-4657-bce6-1b7091fe031d
+updated_at: 1619734609
 ---
 For reviews of my talks, check out [my Joind.in profile](https://joind.in/user/elazar).
 
@@ -26,8 +26,8 @@ For reviews of my talks, check out [my Joind.in profile](https://joind.in/user/e
 * [Louisiana Drupal User Group](https://www.meetup.com/louisianadrupal/). "What Makes a Great Developer?" [Slides](http://matthewturland.com/slides/great-developer).
 * [php[tek]](http://tek.phparch.com/). "Effective Redis for PHP Developers." [Slides](http://matthewturland.com/slides/effective-redis/), [Feedback](https://joind.in/event/phptek-2016/effective-redis-for-php-developers).
 * [php[tek]](http://tek.phparch.com/). "What Makes a Great Developer?" [Slides](http://matthewturland.com/slides/great-developer), [Video](https://www.youtube.com/watch?v=da4Sl3iS8bI), [Feedback](https://joind.in/event/phptek-2016/what-makes-a-great-developer).
-* [Syracuse PHP User Group](http://www.meetup.com/PHPSyracuse/). "Effective Redis for PHP Developers." [Slides](http://matthewturland.com/slides/effective-redis/).
-* [Lone Star PHP](http://lonestarphp.com/). "Effective Redis for PHP Developers." [Slides](http://matthewturland.com/slides/effective-redis/), [Feedback](https://joind.in/event/lone-star-php-2016/effective-redis-for-php-developers).
+* Syracuse PHP User Group. "Effective Redis for PHP Developers." [Slides](http://matthewturland.com/slides/effective-redis/).
+* Lone Star PHP. "Effective Redis for PHP Developers." [Slides](http://matthewturland.com/slides/effective-redis/), [Feedback](https://joind.in/event/lone-star-php-2016/effective-redis-for-php-developers).
 * [Midwest PHP](http://2016.midwestphp.org/). "Data Structures in PHP." [Slides](http://matthewturland.com/slides/datastructures), [Feedback](https://joind.in/event/midwest-php-2016/data-structures-in-php).
 * [PHP UK](http://phpconference.co.uk/). "Mocking Dependencies in Unit Tests with Phake." [Slides](http://matthewturland.com/slides/phake/), [Video](https://www.youtube.com/watch?v=6fNL5U1FUiI), [Feedback](https://joind.in/event/php-uk-conference/mocking-dependencies-in-unit-tests-with-phake).
 
@@ -50,9 +50,9 @@ For reviews of my talks, check out [my Joind.in profile](https://joind.in/user/e
 * True North PHP. "Unit Testing JavaScript with QUnit and Sinon." [Slides](http://matthewturland.com/slides/jstesting/), [Feedback](https://joind.in/event/true-north-php-2013/unit-testing-javascript-with-qunit).
 * [php[architect] PHP 5.5 Web Summit](https://joind.in/event/phparchitect-php-55-web-summit). "New OOP Features in PHP 5.5." [Slides](http://matthewturland.com/slides/php55oop/), [Feedback](https://joind.in/event/phparchitect-php-55-web-summit/object-oriented-advancements-in-php-55).
 * [Barcamp NOLA](http://barcampnola.com/). "Hacking Your Finances for Fun and Profit." [Slides](http://matthewturland.com/slides/ledger-stats/).
-* [Lone Star PHP](http://lonestarphp.com/). "The OOP in PHP." [Slides](http://matthewturland.com/slides/phpoop). [Feedback](https://joind.in/event/lone-star-php-2013/the-oop-in-php).
+* Lone Star PHP. "The OOP in PHP." [Slides](http://matthewturland.com/slides/phpoop). [Feedback](https://joind.in/event/lone-star-php-2013/the-oop-in-php).
 * [SunshinePHP](http://sunshinephp.com/). "Database Testing for Fun and Profit." [Slides](http://matthewturland.com/slides/phpunit-db/), [Feedback](https://joind.in/event/sunshinephp-developer-conference/database-testing-for-fun-and-profit).
-* [Zend Webinar](https://www.zend.com/en/webinars/recorded/show/312_let's+talk+efficient+communication+for+php+and+android). "Let’s Talk: Efficient Communication between PHP and Android." [Slides](http://matthewturland.com/slides/php-android).
+* Zend Webinar. "Let’s Talk: Efficient Communication between PHP and Android." [Slides](http://matthewturland.com/slides/php-android).
 
 ## 2012
 
