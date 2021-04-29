@@ -22,7 +22,7 @@ h1 {
         @apply font-bold uppercase tracking-widest leading-none py-6;
     }
 
-    > p, > blockquote > p {
+    p, blockquote > p {
         @apply mb-6 text-lg;
     }
 
