@@ -71,6 +71,10 @@ h1 {
         @apply p-4;
     }
 
+    pre[class*="language-"] {
+        @apply mb-6;
+    }
+
     > table {
         @apply w-full text-left border border-gray-800 border-collapse mb-6 text-sm;
         th {
