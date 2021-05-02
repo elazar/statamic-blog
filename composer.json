@@ -68,8 +68,8 @@
             "@php -S 0.0.0.0:3000 -t public"
         ],
         "build": [
-            "@php please ssg:generate",
-            "npm run production"
+            "npm run production",
+            "@php please ssg:generate"
         ]
     }
 }
