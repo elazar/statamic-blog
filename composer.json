@@ -10,6 +10,7 @@
         "guzzlehttp/guzzle": "^7.0.1",
         "laravel/framework": "^8.0",
         "laravel/tinker": "^2.0",
+        "spatie/laravel-feed": "^3.1",
         "statamic/cms": "^3",
         "statamic/ssg": "^0"
     },
@@ -69,7 +70,10 @@
         ],
         "build": [
             "npm run production",
-            "@php please ssg:generate"
+            "@php please ssg:generate",
+            "mv ./storage/app/static/feed.xml/index.html /tmp/feed.xml",
+            "rm -fR ./storage/app/static/feed.xml",
+            "mv /tmp/feed.xml ./storage/app/static/feed.xml"
         ]
     }
 }

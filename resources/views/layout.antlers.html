@@ -8,6 +8,9 @@
         <meta name="description" content="{{ excerpt ?? title }}">
         <meta name="theme-color" content="00908F">
         <link rel="stylesheet" href="{{ mix src='css/tailwind.css' }}">
+        {{ foreach:config:feed.feeds as="feed" }}
+        <link rel="alternate" type="{{ feed.type ?? 'application/atom+xml' }}" href="{{ feed.url }}" title="{{ feed.title }}">
+        {{ /foreach:config:feed.feeds }}
         <script src="{{ mix src='/js/site.js' }}"></script>
     </head>
     <body class="bg-white font-sans leading-normal text-grey-800 px-4 sm:px-10" x-data="{ showMobileNav: false }">
