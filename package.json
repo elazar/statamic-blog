@@ -11,6 +11,7 @@
     },
     "devDependencies": {
         "autoprefixer": "^9.8.6",
+        "caniuse-lite": "^1.0.30001223",
         "cross-env": "^5.1",
         "laravel-mix": "^5.0",
         "laravel-mix-purgecss": "^5.0.0",
