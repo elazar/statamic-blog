@@ -1,9 +1,9 @@
 ---
-title: Portfolio
-updated_by: 58305525-d036-4657-bce6-1b7091fe031d
-updated_at: 1612754928
 id: 7386a58d-aa84-4117-97dc-551c081bd101
 blueprint: page
+title: Portfolio
+updated_by: 58305525-d036-4657-bce6-1b7091fe031d
+updated_at: 1620576244
 ---
 Much of my work can be found on [Github](http://github.com/elazar). Here are [some highlights](https://resume.github.io/?elazar).
 
@@ -23,3 +23,11 @@ Here are some [open source projects I've contributed to](https://github.com/sear
 * [php/php-src](https://github.com/php/php-src/search?utf8=%E2%9C%93&q=removeAllExcept&type=Commits)
 * [phpcompatibility/php-compatibility](https://github.com/PHPCompatibility/PHPCompatibility/search?q=author%3Aelazar+is%3Apr+is%3Apr&type=Issues)
 * [php-enqueue/enqueue-dev](https://github.com/php-enqueue/enqueue-dev/search?q=author%3Aelazar&type=Issues)
+
+## Side Projects
+
+These are my own projects that I work on independently as I find time.
+
+### Nook+
+
+[Nook+](https://nook-plus.matthewturland.com) is a [progressive web app](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps) used for tracking items in [Animal Crossing: New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons). It has a [frontend](https://github.com/elazar/nook-plus) built with [Mithril](https://mithril.js.org/) and [Tailwind](https://tailwindcss.com/) and a [backend](https://github.com/elazar/nook-plus-api) built with [PHP](https://www.php.net/) and [Redis](https://redis.io/).
