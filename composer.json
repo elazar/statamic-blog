@@ -20,7 +20,8 @@
         "fakerphp/faker": "^1.9.1",
         "mockery/mockery": "^1.3.1",
         "nunomaduro/collision": "^5.0",
-        "phpunit/phpunit": "^9.3"
+        "phpunit/phpunit": "^9.3",
+        "spatie/fork": "^1.1"
     },
     "config": {
         "optimize-autoloader": true,
@@ -70,7 +71,7 @@
         ],
         "build": [
             "npm run production",
-            "@php please ssg:generate",
+            "@php please ssg:generate --workers=4",
             "mv ./storage/app/static/feed.xml/index.html /tmp/feed.xml",
             "rm -fR ./storage/app/static/feed.xml",
             "mv /tmp/feed.xml ./storage/app/static/feed.xml"
