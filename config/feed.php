@@ -21,7 +21,7 @@ return [
                         'title' => $entry->get('title'),
                         'summary' => $entry->excerpt ?? '',
                         'updated' => $entry->date(),
-                        'link' => $entry->absoluteUrl(),
+                        'link' => 'https://matthewturland.com' . $entry->url(),
                         'author' => implode(', ', $entry->authors()->map(
                             fn($id) => User::find($id)->name
                         )->all()),
