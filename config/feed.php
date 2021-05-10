@@ -17,11 +17,11 @@ return [
                 ->get()
                 ->map(function(Entry $entry): FeedItem {
                     return FeedItem::create([
-                        'id' => $entry->id(),
+                        'id' => $entry->url(),
                         'title' => $entry->get('title'),
                         'summary' => $entry->excerpt ?? '',
                         'updated' => $entry->date(),
-                        'link' => 'https://matthewturland.com' . $entry->url(),
+                        'link' => $entry->url(),
                         'author' => implode(', ', $entry->authors()->map(
                             fn($id) => User::find($id)->name
                         )->all()),
