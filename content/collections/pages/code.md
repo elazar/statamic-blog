@@ -28,6 +28,10 @@ Here are some [open source projects I've contributed to](https://github.com/sear
 
 These are my own projects that I work on independently as I find time.
 
+### My Web Site
+
+You're looking at it. It's built using [Statamic](https://statamic.dev) as a static site generator, [Tailwind](https://tailwindcss.com) for its design, and [prism.js](https://prismjs.com/) for syntax highlighting. You can read more about it in [this blog post](/2021/04/29/a-new-look/).
+
 ### Nook+
 
 [Nook+](https://nook-plus.matthewturland.com) is a [progressive web app](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps) used for tracking items in [Animal Crossing: New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons). It has a [frontend](https://github.com/elazar/nook-plus) built with [Mithril](https://mithril.js.org/) and [Tailwind](https://tailwindcss.com/) and a [backend](https://github.com/elazar/nook-plus-api) built with [PHP](https://www.php.net/) and [Redis](https://redis.io/).
