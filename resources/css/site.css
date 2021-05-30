@@ -27,7 +27,7 @@ h1 {
     }
 
     > blockquote {
-        @apply italic px-4 mb-12 leading-tight;
+        @apply px-4 pt-4 mb-12 leading-tight border border-gray-800 bg-gray-200;
     }
 
     img {
