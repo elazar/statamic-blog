@@ -17,4 +17,4 @@ id: 62136fa2-9e5c-4c38-a894-a2753f02f5ff
 
 **Want to sponsor me?** Most work I publish online is done with my own money and on my own time. You can support my work by [sponsoring me on GitHub](https://github.com/sponsors/elazar) or [supporting me on Patreon](https://www.patreon.com/matthewturland).
 
-**Want to contact me?** [Send me an e-mail](mailto:me@matthewturland.com).
+**Want to contact me?** You can reach me in [a few ways](/contact).
