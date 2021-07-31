@@ -71,10 +71,7 @@
         ],
         "build": [
             "npm run production",
-            "@php please ssg:generate --workers=4",
-            "mv ./storage/app/static/feed.xml/index.html /tmp/feed.xml",
-            "rm -fR ./storage/app/static/feed.xml",
-            "mv /tmp/feed.xml ./storage/app/static/feed.xml"
+            "@php please ssg:generate --workers=4"
         ]
     }
 }
