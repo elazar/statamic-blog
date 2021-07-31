@@ -7,6 +7,10 @@ updated_at: 1619734609
 ---
 For reviews of my talks, check out [my Joind.in profile](https://joind.in/user/elazar).
 
+## Upcoming
+
+* [Longhorn PHP](https://www.longhornphp.com/). "What Makes a Great Developer?"
+
 ## 2020
 
 * [Midwest PHP](https://midwestphp.org). "What Makes a Great Developer?" [Slides](http://matthewturland.com/slides/great-developer).
