@@ -5,7 +5,7 @@ title: Portfolio
 updated_by: 58305525-d036-4657-bce6-1b7091fe031d
 updated_at: 1620576244
 ---
-Much of my work can be found on [Github](http://github.com/elazar). Here are [some highlights](https://resume.github.io/?elazar).
+Much of my work can be found on [Github](http://github.com/elazar). Here are [some highlights](https://opendor.me/@elazar).
 
 ## Contributions
 
