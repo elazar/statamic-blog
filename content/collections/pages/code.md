@@ -29,6 +29,10 @@ Here are some [open source projects I've contributed to](https://github.com/sear
 
 These are my own projects that I work on independently as I find time.
 
+### Flystream
+
+[Flystream](https://github.com/elazar/flystream) is a PHP library that provides a stream wrapper implementation that proxies to the popular [Flysystem](https://flysystem.thephpleague.com/v2/docs/) filesystem abstraction library. This allows libraries that use [core filesystem functions](https://www.php.net/manual/en/ref.filesystem.php) to be integrated with code that uses Flysystem filesystems.
+
 ### My Web Site
 
 You're looking at it. It's built using [Statamic](https://statamic.dev) as a static site generator, [Tailwind](https://tailwindcss.com) for its design, and [prism.js](https://prismjs.com/) for syntax highlighting. You can read more about it in [this blog post](/2021/04/29/a-new-look/).
