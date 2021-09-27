@@ -10,6 +10,7 @@ For reviews of my talks, check out [my Joind.in profile](https://joind.in/user/e
 ## Upcoming
 
 * [Longhorn PHP](https://www.longhornphp.com/). "What Makes a Great Developer?"
+* [Longhorn PHP](https://www.longhornphp.com/). "The OOP in PHP."
 
 ## 2020
 
