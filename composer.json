@@ -70,6 +70,7 @@
             "@php -S 0.0.0.0:3000 -t public"
         ],
         "build": [
+            "npm install",
             "npm run production",
             "@php please ssg:generate --workers=4"
         ]
