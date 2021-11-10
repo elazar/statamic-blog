@@ -3,14 +3,14 @@ id: cfbd25f4-b47d-4467-bc99-32e39ad07c20
 blueprint: page
 title: Presentations
 updated_by: 58305525-d036-4657-bce6-1b7091fe031d
-updated_at: 1619734609
+updated_at: 1635110574
 ---
 For reviews of my talks, check out [my Joind.in profile](https://joind.in/user/elazar).
 
-## Upcoming
+## 2021
 
-* [Longhorn PHP](https://www.longhornphp.com/). "What Makes a Great Developer?"
-* [Longhorn PHP](https://www.longhornphp.com/). "The OOP in PHP."
+* [Longhorn PHP](https://www.longhornphp.com/). Keynote: "What Makes a Great Developer?" [Slides](http://matthewturland.com/slides/great-developer), [Feedback](https://joind.in/event/longhorn-php-conference-2021/what-makes-a-great-developer).
+* [ZendCon](http://zendcon.com/). Tutorial: "The OOP in PHP." [Slides](http://matthewturland.com/slides/phpoop-tutorial/), [Feedback](https://joind.in/event/longhorn-php-conference-2021/the-oop-in-php).
 
 ## 2020
 
@@ -39,14 +39,14 @@ For reviews of my talks, check out [my Joind.in profile](https://joind.in/user/e
 ## 2015
 
 * [Nomad PHP](https://nomadphp.com/). "Data Structures in PHP." [Slides](http://matthewturland.com/slides/datastructures), [Feedback](https://joind.in/event/nomad-php-us---october-2015/data-structures-in-php).
-* [ZendCon](http://zendcon.com/). "The OOP in PHP." [Slides](http://matthewturland.com/slides/phpoop-tutorial/), [Feedback](https://joind.in/event/zendcon-2015/the-oop-in-php).
+* [ZendCon](http://zendcon.com/). Tutorial: "The OOP in PHP." [Slides](http://matthewturland.com/slides/phpoop-tutorial/), [Feedback](https://joind.in/event/zendcon-2015/the-oop-in-php).
 * [ZendCon](http://zendcon.com/). "Testing APIs with Codeception." [Slides](http://matthewturland.com/slides/codeception/), [Feedback](https://joind.in/event/zendcon-2015/testing-apis-with-codeception).
 * [php[tek]](http://tek.phparch.com/). "Mocking Dependencies in Unit Tests with Phake." [Slides](http://matthewturland.com/slides/phake/), [Feedback](https://joind.in/event/phptek-2015/mocking-dependencies-in-unit-tests-with-phake).
 * [php[tek]](http://tek.phparch.com/). "Data Structures in PHP." [Slides](http://matthewturland.com/slides/datastructures), [Feedback](https://joind.in/event/phptek-2015/data-structures-in-php).
 
 ## 2014
 
-* [php[world]](http://world.phparch.com/). "The OOP in PHP." [Slides](http://matthewturland.com/slides/phpoop-tutorial), [Video](https://www.youtube.com/watch?v=oAaNHGK1kNk), [Feedback](https://joind.in/event/phpworld/the-oop-in-php).
+* [php[world]](http://world.phparch.com/). Tutorial: "The OOP in PHP." [Slides](http://matthewturland.com/slides/phpoop-tutorial), [Video](https://www.youtube.com/watch?v=oAaNHGK1kNk), [Feedback](https://joind.in/event/phpworld/the-oop-in-php).
 * [gnocode](http://www.meetup.com/gnocode/). "IRC-Driven Development with Phergie." [Slides](http://matthewturland.com/slides/ircdd/).
 
 ## 2013
