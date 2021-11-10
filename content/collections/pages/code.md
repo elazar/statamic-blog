@@ -39,4 +39,4 @@ You're looking at it. It's built using [Statamic](https://statamic.dev) as a sta
 
 ### Nook+
 
-[Nook+](https://nook-plus.matthewturland.com) is a [progressive web app](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps) used for tracking items in [Animal Crossing: New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons). It has a [frontend](https://github.com/elazar/nook-plus) built with [Mithril](https://mithril.js.org/) and [Tailwind](https://tailwindcss.com/) and a [backend](https://github.com/elazar/nook-plus-api) built with [PHP](https://www.php.net/) and [Redis](https://redis.io/).
+Nook+ was a [progressive web app](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps) used for tracking items in [Animal Crossing: New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons). It had a [frontend](https://github.com/elazar/nook-plus) built with [Mithril](https://mithril.js.org/) and [Tailwind](https://tailwindcss.com/) and a [backend](https://github.com/elazar/nook-plus-api) built with [PHP](https://www.php.net/) and [Redis](https://redis.io/).
