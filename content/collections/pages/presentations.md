@@ -10,7 +10,7 @@ For reviews of my talks, check out [my Joind.in profile](https://joind.in/user/e
 ## 2021
 
 * [Longhorn PHP](https://www.longhornphp.com/). Keynote: "What Makes a Great Developer?" [Slides](http://matthewturland.com/slides/great-developer), [Feedback](https://joind.in/event/longhorn-php-conference-2021/what-makes-a-great-developer).
-* [ZendCon](http://zendcon.com/). Tutorial: "The OOP in PHP." [Slides](http://matthewturland.com/slides/phpoop-tutorial/), [Feedback](https://joind.in/event/longhorn-php-conference-2021/the-oop-in-php).
+* [Longhorn PHP](https://www.longhornphp.com/). Tutorial: "The OOP in PHP." [Slides](http://matthewturland.com/slides/phpoop-tutorial/), [Feedback](https://joind.in/event/longhorn-php-conference-2021/the-oop-in-php).
 
 ## 2020
 
