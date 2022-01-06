@@ -2,9 +2,10 @@
 
 BUILD_REMOTE="origin"
 BUILD_BRANCH="main"
+BUILD_PATH="./storage/app/static"
 
-cd ./storage/app/static
-sudo chown -R pi:pi .
+[[ -d $BUILD_PATH ]] || mkdir -p $BUILD_PATH
+cd $BUILD_PATH
 [[ -d .git ]] || git init -b $BUILD_BRANCH
 git config pull.rebase false
 git remote | grep $BUILD_REMOTE >/dev/null
