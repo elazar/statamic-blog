@@ -5,6 +5,10 @@ updated_at: 1612754985
 id: bd969fdf-dd72-44fc-be70-5ebb1835cece
 blueprint: page
 ---
+## 2022
+
+* [Free the Geek](https://www.freethegeek.fm/). "Episode 37 - With Matthew Turland. TypeScript, Functional Programming + Loads More!" [Podcast](https://www.freethegeek.fm/37).
+
 ## 2021
 
 * [Cloudways](https://www.cloudways.com). "Cloudways Interviews Senior Software Engineer, Author, and Speaker Matthew Turland About His Life around PHP." [Article](https://www.cloudways.com/blog/matthew-turland-interview).
