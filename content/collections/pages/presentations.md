@@ -7,6 +7,10 @@ updated_at: 1635110574
 ---
 For reviews of my talks, check out [my Joind.in profile](https://joind.in/user/elazar).
 
+## 2022
+
+* [Longhorn PHP](https://www.longhornphp.com/). "Automating the Web." [Slides](https://matthewturland.com/slides/automating-the-web/), [Feedback](https://joind.in/event/longhorn-php-conference-2022/automating-the-web).
+
 ## 2021
 
 * [Longhorn PHP](https://www.longhornphp.com/). Keynote: "What Makes a Great Developer?" [Slides](http://matthewturland.com/slides/great-developer), [Feedback](https://joind.in/event/longhorn-php-conference-2021/what-makes-a-great-developer).
