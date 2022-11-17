@@ -11,9 +11,9 @@ data:
       url: 'https://phpc.social/@elazar'
       icon: site/social-icons/mastodon.svg
     -
-      name: Twitter
-      url: 'https://twitter.com/elazar'
-      icon: site/social-icons/twitter.svg
+      name: Ko-Fi
+      url: 'https://ko-fi.com/elazar'
+      icon: site/social-icons/kofi.svg
     -
       name: Feed
       url: /feed.xml
