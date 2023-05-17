@@ -7,9 +7,23 @@ updated_at: 1635110574
 ---
 For reviews of my talks, check out [my Joind.in profile](https://joind.in/user/elazar).
 
+## OpenAPI: More Than Documentation
+
+[Slides](https://matthewturland.com/slides/openapi)
+
+* 2023 [php\[tek\]](https://tek.phparch.com): [Feedback](https://joind.in/event/phptek-2023/openapi-more-than-documentation)
+
+## Regular Expressions Made Eas(y|ier)
+
+[Slides](https://matthewturland.com/slides/regular-expressions)
+
+* 2023 [php\[tek\]](https://tek.phparch.com): [Feedback](https://joind.in/event/phptek-2023/regular-expressions-made-easyier)
+
 ## Automating the Web
 
-* 2022 [Longhorn PHP](https://www.longhornphp.com/): [Slides](https://matthewturland.com/slides/automating-the-web/), [Feedback](https://joind.in/event/longhorn-php-conference-2022/automating-the-web)
+[Slides](https://matthewturland.com/slides/automating-the-web/)
+
+* 2022 [Longhorn PHP](https://www.longhornphp.com/): [Feedback](https://joind.in/event/longhorn-php-conference-2022/automating-the-web)
 
 ## What Makes a Great Developer?
 
