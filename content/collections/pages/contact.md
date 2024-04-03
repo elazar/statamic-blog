@@ -9,6 +9,6 @@ id: 7c242b0e-56a3-42b6-a3a1-b51a48f31654
 
 * [E-mail](mailto:me@matthewturland.com)
 * [Github](http://github.com/elazar)
+* [LinkedIn](https://www.linkedin.com/in/matthew-turland-6aba77256/)
 * [Mastodon](https://phpc.social/@elazar)
 * [Joind.in](https://joind.in/user/elazar)
-* [Refind](https://refind.com/elazar)
