@@ -3,7 +3,7 @@ id: 7386a58d-aa84-4117-97dc-551c081bd101
 blueprint: page
 title: Portfolio
 updated_by: 58305525-d036-4657-bce6-1b7091fe031d
-updated_at: 1620576244
+updated_at: 1738026050
 ---
 Much of my work can be found on [Github](http://github.com/elazar). Here are [some highlights](https://opendor.me/@elazar).
 
@@ -24,6 +24,7 @@ Here are some [open source projects I've contributed to](https://github.com/sear
 * [php/php-src](https://github.com/php/php-src/search?utf8=%E2%9C%93&q=removeAllExcept&type=Commits)
 * [phpcompatibility/php-compatibility](https://github.com/PHPCompatibility/PHPCompatibility/search?q=author%3Aelazar+is%3Apr+is%3Apr&type=Issues)
 * [php-enqueue/enqueue-dev](https://github.com/php-enqueue/enqueue-dev/search?q=author%3Aelazar&type=Issues)
+* [vimeo/psalm](https://github.com/vimeo/psalm/pulls?q=is%3Apr+author%3Aelazar+is%3Aclosed)
 
 ## Side Projects
 
