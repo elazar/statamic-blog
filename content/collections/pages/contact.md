@@ -1,7 +1,7 @@
 ---
 title: 'Contact Me'
 updated_by: 58305525-d036-4657-bce6-1b7091fe031d
-updated_at: 1612760005
+updated_at: 1738026050
 blueprint: page
 id: 7c242b0e-56a3-42b6-a3a1-b51a48f31654
 ---
@@ -11,4 +11,5 @@ id: 7c242b0e-56a3-42b6-a3a1-b51a48f31654
 * [Github](http://github.com/elazar)
 * [LinkedIn](https://www.linkedin.com/in/matthew-turland-6aba77256/)
 * [Mastodon](https://phpc.social/@elazar)
+* [Discord](https://discordapp.com/users/175419649897267209)
 * [Joind.in](https://joind.in/user/elazar)
