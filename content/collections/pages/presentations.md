@@ -7,6 +7,13 @@ updated_at: 1635110574
 ---
 For reviews of my talks, check out [my Joind.in profile](https://joind.in/user/elazar).
 
+## On Being a Software Engineer
+
+[Slides](https://matthewturland.com/slides/on-being-a-software-engineer)
+
+* 2025 [Edgar Martin Middle School Career Day](https://www.lpssonline.com/schools/edgar-martin)
+* 2020 [Benjamin Franklin High School Career Day](https://www.bfhsla.org/)
+
 ## OpenAPI: More Than Documentation
 
 [Slides](https://matthewturland.com/slides/openapi)
